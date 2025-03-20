@@ -22,5 +22,5 @@ This project automates the setup of a Linux VM for DevOps tasks using Jenkins, D
 **Clone the Repository**
 
    ```bash
-   git clone https://your-repository-url.git
+   git clone https://github.com/HakeemKhan1/linux-vm-automation.git
    cd your-project-directory
